@@ -15,6 +15,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
+| [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -35,4 +37,12 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
