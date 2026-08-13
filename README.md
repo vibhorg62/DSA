@@ -18,6 +18,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/vibhorg62/DSA/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 ## Manacher
@@ -29,6 +30,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -38,6 +40,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Longest Increasing Subsequence
 |  |
@@ -80,6 +84,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 ## Game Theory
 |  |
