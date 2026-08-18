@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
@@ -21,6 +23,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 ## Manacher
 |  |
@@ -33,6 +36,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -48,6 +52,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vibhorg62/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -106,6 +111,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Ordered Set
 |  |
