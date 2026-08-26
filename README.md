@@ -126,9 +126,14 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/vibhorg62/DSA/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vibhorg62/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/vibhorg62/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
