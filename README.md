@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
+| [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -124,6 +125,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
