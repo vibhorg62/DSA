@@ -19,6 +19,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/vibhorg62/DSA/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/vibhorg62/DSA/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vibhorg62/DSA/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/vibhorg62/DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 ## Simulation
 |  |
