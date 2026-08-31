@@ -34,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/vibhorg62/DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -117,6 +118,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/vibhorg62/DSA/tree/master/0040-combination-sum-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
