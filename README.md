@@ -50,6 +50,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vibhorg62/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vibhorg62/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vibhorg62/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
@@ -137,6 +139,7 @@
 | [0191-number-of-1-bits](https://github.com/vibhorg62/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/vibhorg62/DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
 |  |
 | ------- |
@@ -161,4 +164,12 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/vibhorg62/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Matrix
+|  |
+| ------- |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
