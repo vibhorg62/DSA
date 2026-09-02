@@ -139,6 +139,7 @@
 | ------- |
 | [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/vibhorg62/DSA/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/vibhorg62/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/vibhorg62/DSA/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
