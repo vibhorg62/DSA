@@ -25,6 +25,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 ## Manacher
@@ -40,6 +41,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -74,12 +76,14 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Longest Increasing Subsequence
 |  |
@@ -175,4 +179,12 @@
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
