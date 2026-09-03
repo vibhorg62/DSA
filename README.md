@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -65,6 +66,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -76,6 +78,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
