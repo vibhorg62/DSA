@@ -12,6 +12,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vibhorg62/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -218,4 +219,12 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
