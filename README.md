@@ -142,6 +142,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/vibhorg62/DSA/tree/master/0040-combination-sum-ii) |
+| [0052-n-queens-ii](https://github.com/vibhorg62/DSA/tree/master/0052-n-queens-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/vibhorg62/DSA/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
