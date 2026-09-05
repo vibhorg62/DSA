@@ -1,7 +1,7 @@
     class Solution {
     public:
         vector<string>curr;
-        vector<vector<string>>res;
+        int cnt=0;
         bool check(int row,int col){
             int l=row-1;
             while(l>=0){
@@ -26,7 +26,7 @@
         }
         void solve(int row){
             if(row>=curr.size()){
-                res.push_back(curr);
+                cnt++;
                 return;
             }
             for(int col=0;col<curr.size();col++){
@@ -40,6 +40,6 @@
         int totalNQueens(int n) {
             curr=vector<string>(n,string(n,'.'));
             solve(0);
-            return res.size();
+            return cnt;
         }
     };
