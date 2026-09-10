@@ -16,6 +16,7 @@
 | [0097-interleaving-string](https://github.com/vibhorg62/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/vibhorg62/DSA/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vibhorg62/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -93,6 +94,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhorg62/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -109,6 +111,7 @@
 | [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/vibhorg62/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
