@@ -145,6 +145,7 @@
 | [0343-integer-break](https://github.com/vibhorg62/DSA/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/vibhorg62/DSA/tree/master/0368-largest-divisible-subset) |
+| [0836-rectangle-overlap](https://github.com/vibhorg62/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3870-count-commas-in-range](https://github.com/vibhorg62/DSA/tree/master/3870-count-commas-in-range) |
@@ -307,4 +308,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vibhorg62/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
