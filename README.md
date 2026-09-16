@@ -55,6 +55,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vibhorg62/DSA/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/vibhorg62/DSA/tree/master/0040-combination-sum-ii) |
 | [0055-jump-game](https://github.com/vibhorg62/DSA/tree/master/0055-jump-game) |
 | [0136-single-number](https://github.com/vibhorg62/DSA/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vibhorg62/DSA/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vibhorg62/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/vibhorg62/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
