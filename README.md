@@ -152,6 +152,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vibhorg62/DSA/tree/master/0050-powx-n) |
 | [0343-integer-break](https://github.com/vibhorg62/DSA/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/vibhorg62/DSA/tree/master/0368-largest-divisible-subset) |
@@ -278,6 +279,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vibhorg62/DSA/tree/master/0050-powx-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
