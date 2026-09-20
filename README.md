@@ -26,6 +26,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
@@ -220,6 +221,7 @@
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vibhorg62/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
