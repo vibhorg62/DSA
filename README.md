@@ -23,6 +23,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/vibhorg62/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vibhorg62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -300,10 +301,12 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
