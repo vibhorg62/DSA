@@ -89,6 +89,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/vibhorg62/DSA/tree/master/0835-image-overlap) |
+| [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -223,6 +224,7 @@
 | [0093-restore-ip-addresses](https://github.com/vibhorg62/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/vibhorg62/DSA/tree/master/0216-combination-sum-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/vibhorg62/DSA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/vibhorg62/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/vibhorg62/DSA/tree/master/0338-counting-bits) |
+| [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vibhorg62/DSA/tree/master/0835-image-overlap) |
+| [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vibhorg62/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Rolling Hash
@@ -407,4 +411,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
