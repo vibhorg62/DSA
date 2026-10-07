@@ -20,6 +20,7 @@
 | [0093-restore-ip-addresses](https://github.com/vibhorg62/DSA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/vibhorg62/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/vibhorg62/DSA/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/vibhorg62/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -223,6 +224,7 @@
 | [0052-n-queens-ii](https://github.com/vibhorg62/DSA/tree/master/0052-n-queens-ii) |
 | [0093-restore-ip-addresses](https://github.com/vibhorg62/DSA/tree/master/0093-restore-ip-addresses) |
 | [0216-combination-sum-iii](https://github.com/vibhorg62/DSA/tree/master/0216-combination-sum-iii) |
+| [0301-remove-invalid-parentheses](https://github.com/vibhorg62/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 ## Sorting
@@ -282,6 +284,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vibhorg62/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/vibhorg62/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/vibhorg62/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
