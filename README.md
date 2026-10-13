@@ -117,6 +117,7 @@
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/vibhorg62/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vibhorg62/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vibhorg62/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vibhorg62/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/vibhorg62/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -136,6 +137,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vibhorg62/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Ordered Set
 |  |
 | ------- |
