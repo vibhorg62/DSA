@@ -35,6 +35,7 @@
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vibhorg62/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhorg62/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vibhorg62/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhorg62/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -369,6 +370,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/vibhorg62/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vibhorg62/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vibhorg62/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vibhorg62/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vibhorg62/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vibhorg62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
