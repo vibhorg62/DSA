@@ -42,6 +42,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vibhorg62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -71,6 +72,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vibhorg62/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/vibhorg62/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 ## Manacher
 |  |
@@ -157,6 +159,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vibhorg62/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vibhorg62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vibhorg62/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/vibhorg62/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -251,6 +254,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/vibhorg62/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Sorting
 |  |
 | ------- |
