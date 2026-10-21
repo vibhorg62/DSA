@@ -462,4 +462,8 @@
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/vibhorg62/DSA/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
