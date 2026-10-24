@@ -26,6 +26,7 @@
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
 | [0678-valid-parenthesis-string](https://github.com/vibhorg62/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [0856-score-of-parentheses](https://github.com/vibhorg62/DSA/tree/master/0856-score-of-parentheses) |
@@ -63,6 +64,7 @@
 | [0357-count-numbers-with-unique-digits](https://github.com/vibhorg62/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/vibhorg62/DSA/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/vibhorg62/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -95,6 +97,7 @@
 | [0368-largest-divisible-subset](https://github.com/vibhorg62/DSA/tree/master/0368-largest-divisible-subset) |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
+| [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/vibhorg62/DSA/tree/master/0835-image-overlap) |
@@ -470,4 +473,12 @@
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/vibhorg62/DSA/tree/master/0184-department-highest-salary) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
