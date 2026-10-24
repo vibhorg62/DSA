@@ -69,6 +69,7 @@
 | [0678-valid-parenthesis-string](https://github.com/vibhorg62/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
+| [0879-profitable-schemes](https://github.com/vibhorg62/DSA/tree/master/0879-profitable-schemes) |
 | [0940-distinct-subsequences-ii](https://github.com/vibhorg62/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
@@ -101,6 +102,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/vibhorg62/DSA/tree/master/0835-image-overlap) |
+| [0879-profitable-schemes](https://github.com/vibhorg62/DSA/tree/master/0879-profitable-schemes) |
 | [0980-unique-paths-iii](https://github.com/vibhorg62/DSA/tree/master/0980-unique-paths-iii) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
@@ -477,8 +479,10 @@
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
+| [0879-profitable-schemes](https://github.com/vibhorg62/DSA/tree/master/0879-profitable-schemes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
+| [0879-profitable-schemes](https://github.com/vibhorg62/DSA/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
