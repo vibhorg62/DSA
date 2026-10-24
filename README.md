@@ -43,6 +43,7 @@
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vibhorg62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/vibhorg62/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/vibhorg62/DSA/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -220,6 +221,7 @@
 | [0836-rectangle-overlap](https://github.com/vibhorg62/DSA/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/vibhorg62/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2409-count-days-spent-together](https://github.com/vibhorg62/DSA/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vibhorg62/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/vibhorg62/DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vibhorg62/DSA/tree/master/3871-count-commas-in-range-ii) |
