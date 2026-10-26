@@ -331,6 +331,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/vibhorg62/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vibhorg62/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/vibhorg62/DSA/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vibhorg62/DSA/tree/master/0239-sliding-window-maximum) |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
@@ -429,6 +431,7 @@
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0543-diameter-of-binary-tree](https://github.com/vibhorg62/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vibhorg62/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/vibhorg62/DSA/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/vibhorg62/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -460,10 +463,12 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -490,4 +495,8 @@
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
 | [0879-profitable-schemes](https://github.com/vibhorg62/DSA/tree/master/0879-profitable-schemes) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
