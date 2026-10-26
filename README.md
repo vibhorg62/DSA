@@ -111,6 +111,7 @@
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vibhorg62/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/vibhorg62/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vibhorg62/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vibhorg62/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -360,6 +361,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vibhorg62/DSA/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Monotonic Queue
 |  |
@@ -464,11 +466,13 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -499,4 +503,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
