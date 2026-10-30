@@ -48,6 +48,7 @@
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -369,6 +370,7 @@
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -474,12 +476,14 @@
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
