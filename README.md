@@ -340,6 +340,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vibhorg62/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/vibhorg62/DSA/tree/master/1254-number-of-closed-islands) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vibhorg62/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/vibhorg62/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -447,6 +448,7 @@
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1254-number-of-closed-islands](https://github.com/vibhorg62/DSA/tree/master/1254-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/vibhorg62/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vibhorg62/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -478,6 +480,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/vibhorg62/DSA/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
