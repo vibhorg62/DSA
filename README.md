@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/vibhorg62/DSA/tree/master/0011-container-with-most-water) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vibhorg62/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vibhorg62/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vibhorg62/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## String
 |  |
@@ -110,6 +111,7 @@
 | [1140-stone-game-ii](https://github.com/vibhorg62/DSA/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/vibhorg62/DSA/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vibhorg62/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vibhorg62/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/vibhorg62/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vibhorg62/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -204,6 +206,7 @@
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vibhorg62/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vibhorg62/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vibhorg62/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vibhorg62/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -279,6 +282,7 @@
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/vibhorg62/DSA/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/vibhorg62/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vibhorg62/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vibhorg62/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vibhorg62/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
