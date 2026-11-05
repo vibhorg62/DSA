@@ -102,6 +102,7 @@
 | [0399-evaluate-division](https://github.com/vibhorg62/DSA/tree/master/0399-evaluate-division) |
 | [0410-split-array-largest-sum](https://github.com/vibhorg62/DSA/tree/master/0410-split-array-largest-sum) |
 | [0474-ones-and-zeroes](https://github.com/vibhorg62/DSA/tree/master/0474-ones-and-zeroes) |
+| [0480-sliding-window-median](https://github.com/vibhorg62/DSA/tree/master/0480-sliding-window-median) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vibhorg62/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0835-image-overlap](https://github.com/vibhorg62/DSA/tree/master/0835-image-overlap) |
@@ -169,6 +170,7 @@
 | [0133-clone-graph](https://github.com/vibhorg62/DSA/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/vibhorg62/DSA/tree/master/0480-sliding-window-median) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vibhorg62/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/vibhorg62/DSA/tree/master/0828-count-unique-characters-of-all-substrings-of-a-given-string) |
 | [1048-longest-string-chain](https://github.com/vibhorg62/DSA/tree/master/1048-longest-string-chain) |
@@ -194,6 +196,7 @@
 | [0239-sliding-window-maximum](https://github.com/vibhorg62/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/vibhorg62/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vibhorg62/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0480-sliding-window-median](https://github.com/vibhorg62/DSA/tree/master/0480-sliding-window-median) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vibhorg62/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vibhorg62/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vibhorg62/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vibhorg62/DSA/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/vibhorg62/DSA/tree/master/0480-sliding-window-median) |
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -532,4 +536,8 @@
 | [0743-network-delay-time](https://github.com/vibhorg62/DSA/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/vibhorg62/DSA/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/vibhorg62/DSA/tree/master/1631-path-with-minimum-effort) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/vibhorg62/DSA/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
