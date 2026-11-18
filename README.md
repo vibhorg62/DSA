@@ -48,6 +48,7 @@
 | [2262-total-appeal-of-a-string](https://github.com/vibhorg62/DSA/tree/master/2262-total-appeal-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/vibhorg62/DSA/tree/master/2409-count-days-spent-together) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/vibhorg62/DSA/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/vibhorg62/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/vibhorg62/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/vibhorg62/DSA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
