@@ -87,6 +87,7 @@
 | [3176-find-the-maximum-length-of-a-good-subsequence-i](https://github.com/vibhorg62/DSA/tree/master/3176-find-the-maximum-length-of-a-good-subsequence-i) |
 | [3665-twisted-mirror-path-count](https://github.com/vibhorg62/DSA/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/vibhorg62/DSA/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vibhorg62/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Manacher
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/vibhorg62/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/vibhorg62/DSA/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/vibhorg62/DSA/tree/master/3904-smallest-stable-index-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vibhorg62/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vibhorg62/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vibhorg62/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vibhorg62/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vibhorg62/DSA/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
